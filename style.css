@@ -73,13 +73,6 @@ a {
   transition: opacity 0.8s, transform 4s;
 }
 
-.container .bgSection #frame .panels .introMsg {
-  position: absolute;
-  z-index: 5;
-  top: 7%;
-  left: calc(50% - 367px);
-}
-
 .container .bgMobile {
   display: none;
   width: 100%;
